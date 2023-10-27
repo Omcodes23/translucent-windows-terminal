@@ -7,8 +7,7 @@ You can customize the transparency of Windows Terminal by editing the settings i
 Before you begin, ensure that you have [Windows Terminal](https://aka.ms/terminal) installed on your Windows system.
 
 ## Images
-![Windows terminal](windowsterminal.png)
-![Ubuntu terminal](ubuntu_in_windowsterminal.png)
+![Windows terminal](https://res.cloudinary.com/practicaldev/image/fetch/s--FZ8anCFr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/yzavvq4we0ao5akst1d2.png)
 
 ## Steps
 
